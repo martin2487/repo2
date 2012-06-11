@@ -1,0 +1,12 @@
+target
+*.class
+*.dex
+*.apk
+*.ap_
+bin
+gen
+.classpath
+.project
+.settings
+.metadata
+*.log
